@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Vilnius Tour Guide</string>
+
+    <!-- Historical Sites -->
+
+    // Gediminas Castle Tower
+
+    <string name="name_gediminas_tower">Gediminas Castle Tower</string>
+    <string name="description_tower">A magnificent panorama of the city opens from the top of the
+        tower.</string>
+    <string name="coordinates_tower">https://www.google.com/maps/place/Gedimino+pilies+bokštas
+    </string>
+
+    // Gates of Dawn
+
+    <string name="name_gates_of_dawn">Gates of Dawn</string>
+    <string name="description_gates">The only surviving gates of the city wall is famous for here
+        held painting of the Virgin Mary.</string>
+    <string name="coordinates_gates">https://www.google.com/maps/place/Aušros+vartai</string>
+
+    // Vilnius University
+
+    <string name="name_vilnius_university">Vilnius University</string>
+    <string name="description_university">One of the oldest universities in Central Europe.</string>
+    <string name="coordinates_university">https://www.google.com/maps/place/Vilniaus+universitetas
+    </string>
+
+    // The Bastion of City Wall
+
+    <string name="name_bastion">The Bastion of City Wall</string>
+    <string name="description_bastion">The Bastion is a Renaissance-style fortification, a remnant
+        of defensive wall.</string>
+    <string name="coordinates_bastion">https://www.google.com/maps/place/
+        Vilniaus+gynybinės+sienos+bastėja</string>
+
+    // Pilies Street
+
+    <string name="name_pilies_street">Pilies Street</string>
+    <string name="description_street">It is the oldest and most flamboyant street in the Old Town
+        of Vilnius.</string>
+    <string name="coordinates_street">https://www.google.com/maps/place/Pilies+g.,+Vilnius,+Lietuva
+    </string>
+
+    <!-- Churches-->
+
+    // Cathedral Basilica
+    <string name="name_cathedral_basilica">Cathedral Basilica</string>
+    <string name="description_cathedral">The most important place of worship for Lithuania\'s
+        Catholics.</string>
+    <string name="coordinates_cathedral">https://www.google.com/maps/place/Vilniaus+katedra</string>
+
+    // Church of St. Anne
+    <string name="name_church_of_st_anne">Church of St. Anne</string>
+    <string name="description_st_anne">The masterpiece of the late Gothic period.</string>
+    <string name="coordinates_st_anne">https://www.google.com/maps/place/Vilniaus+Šv.+Onos+bažnyčia
+    </string>
+
+    // Church of St. Peter and St. Paul
+    <string name="name_church_of_st_peter_and_st_paul">Church of St. Peter and St. Paul</string>
+    <string name="description_peter_and_paul">Famous for its exceptional interior.</string>
+    <string name="coordinates_peter_and_paul">https://www.google.com/maps/place/
+        Vilniaus+Šv.+apaštalų+Petro+ir+Povilo+bažnyčia</string>
+
+    // Church of St. Casimir
+    <string name="name_church_of_st_casimir">Church of St. Casimir</string>
+    <string name="description_casimir">One of the first Baroque church in Vilnius.</string>
+    <string name="coordinates_casimir">https://www.google.com/maps/place/Šv.+Kazimiero+bažnyčia
+    </string>
+
+    // Church of Sts. Johns
+    <string name="name_church_of_sts_johns">Church of Sts. Johns</string>
+    <string name="description_johns">The bell tower of the church is among the highest buildings
+        in the Old Town.</string>
+    <string name="coordinates_johns">https://www.google.com/maps/place/
+        Vilniaus+Šv.+Jono+Krikštytojo+ir+Šv.+Jono+apaštalo+ir+evangelisto+bažnyčia</string>
+
+
+    <!-- Monuments -->
+
+    // Monument to Grand Duke Gediminas
+    <string name="name_monument_to_grand_duke_gediminas">Monument to Grand Duke Gediminas</string>
+    <string name="description_gediminas_monument">The founder of Vilnius city.</string>
+    <string name="coordinates_gediminas_monument">https://www.google.com/maps/place/
+        Gedimino+paminklas</string>
+
+    // Užupis Angel Sculpture
+    <string name="name_angel_sculpture">Užupis Angel Sculpture</string>
+    <string name="description_angel_sculpture">The symbol of the Užupis district.</string>
+    <string name="coordinates_angel_sculpture">https://www.google.com/maps/place/Užupio+Angelas
+    </string>
+
+    // Three Muses Sculpture
+    <string name="name_three_muses">Three Muses Sculpture</string>
+    <string name="description_three_muses">It crowns the main entrance to the National Drama
+        Theatre.</string>
+    <string name="coordinates_three_muses">https://www.google.com/maps/place/Trys+mūzos</string>
+
+    // Monument to Basketball
+    <string name="name_basketball">Monument to Basketball</string>
+    <string name="description_basketball">It is nearly 6 metres in height and 30 tons in weight.
+    </string>
+    <string name="coordinates_basketball">https://www.google.com/maps/place/
+        Paminklas+krepšiniui,+V.+Gerulaičio+g.,+Vilnius+08200,+Lietuva</string>
+
+    // Monument to Frank Zappa
+    <string name="name_frank_zappa">Monument to Frank Zappa</string>
+    <string name="description_frank_zappa">An eminent American composer, guitarist and singer.
+    </string>
+    <string name="coordinates_frank_zappa">https://www.google.com/maps/place/
+        Paminklas+Frankui+Zappa,+K.+Kalinausko+g.+1,+Vilnius+03107,+Lietuva</string>
+
+    <!-- Museums -->
+
+    // Palace of the Grand Dukes of Lithuania
+    <string name="name_palace">Palace of the Grand Dukes of Lithuania</string>
+    <string name="description_palace">The former political, diplomatic, cultural center of the
+        State.</string>
+    <string name="coordinates_palace">https://www.google.com/maps/place/Valdovų+rūmai,+3,
+        +Vilnius+01143,+Lietuva</string>
+
+    // National Museum of Lithuania
+    <string name="name_national_museum">National Museum of Lithuania</string>
+    <string name="description_national_museum">The depository of Lithuanian historical cultural
+        heritage.</string>
+    <string name="coordinates_national_museum">https://www.google.com/maps/place/
+        Lietuvos+nacionalinis+muziejus+(National+Museum+of+Lithuania)</string>
+
+    // Old Arsenal
+    <string name="name_old_arsenal">Old Arsenal</string>
+    <string name="description_old_arsenal">Archaeological findings dating back to the appearance of
+        the first inhabitants in Lithuania.</string>
+    <string name="coordinates_old_arsenal">https://www.google.com/maps/place/
+        Senasis+arsenalas+(The+Old+Arsenal)</string>
+
+    // Vilnius Picture Gallery
+    <string name="name_picture_gallery">Vilnius Picture Gallery</string>
+    <string name="description_picture_gallery">Impressive collection of paintings from the 16th to
+        the beginning of 20th century.</string>
+    <string name="coordinates_picture_gallery">https://www.google.com/maps/place/
+        Vilniaus+paveikslų+galerija</string>
+
+    // Energy and Tehnology Museum
+    <string name="name_energy_and_technology">Energy and Tehnology Museum</string>
+    <string name="description_energy_and_technology">Established in the old power plant.</string>
+    <string name="coordinates_energy_and_technology">https://www.google.com/maps/place/
+        Energetikos+ir+technikos+muziejus</string>
+
+</resources>
